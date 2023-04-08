@@ -10,7 +10,7 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 - **[NeuSPIN – An ANR project]**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
-# Neuromorphic Computing Research
+# Neuromorphic Computing and Deep Learning Research
 
 This repository contains an overview of my research work in the field of neuromorphic computing, focusing on spintronics, fault tolerance, and resistive memories. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges in uncertainty estimation, fault-tolerance, and variability.
 
@@ -41,4 +41,4 @@ The primary focus of my research lies at the intersection of neuromorphic comput
 
 ## Contact
 
-- **Email**: [soyed.ahmed@kit.edu]
+- **Email**: soyed.ahmed@kit.edu
