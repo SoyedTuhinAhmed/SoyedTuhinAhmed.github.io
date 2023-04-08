@@ -1,4 +1,4 @@
-# [Your Name] - Research Profile
+# Soyed Tuhin Ahmed - Research Profile
 
 ![Profile Image](profile_image.jpg)
 
@@ -8,8 +8,7 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 ## Research Projects
 
-- **[NeuSPIN – An ANR project]**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](link_to_project)
-- **[Project Name]**: [Brief description of the project and its purpose] [[Link]](link_to_project)
+- **[NeuSPIN – An ANR project]**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
 # Neuromorphic Computing Research
 
@@ -40,18 +39,6 @@ The primary focus of my research lies at the intersection of neuromorphic comput
 7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 
 
 
-## Collaborations
-
-- [Collaboration 1]: [Brief description of the collaboration and its purpose] [[Link]](link_to_collaboration)
-- [Collaboration 2]: [Brief description of the collaboration and its purpose] [[Link]](link_to_collaboration)
-
-## Open Source Contributions
-
-- **[Project Name]**: [Brief description of the project and your contribution] [[Link]](link_to_project)
-- **[Project Name]**: [Brief description of the project and your contribution] [[Link]](link_to_project)
-
 ## Contact
 
-- **Email**: [your_email@example.com]
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [soyed.ahmed@kit.edu]
