@@ -8,7 +8,7 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 ## Research Projects
 
-- **[NeuSPIN – An ANR project]**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
+- **NeuSPIN – An ANR project**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
 # Neuromorphic Computing and Deep Learning Research overview
 
