@@ -14,7 +14,7 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 ## Research Statement
 
-My research work in the field of neuromorphic computing with emerging resistive NVM memories, e.g., spintronics, fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges trustworthy deep learing system with uncertainty estimation, fault-tolerance, and testability with algorithm-hardware co-design appraoch. For a detailed research statement, please refer to [ResearchStatement.md](ResearchStatement.md).
+My research work in the field of neuromorphic computing with emerging resistive NVM memories, e.g., spintronics, fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges trustworthy deep learing system with uncertainty estimation, fault-tolerance, and testability with algorithm-hardware co-design appraoch. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
 ## Publications
 
