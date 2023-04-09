@@ -28,13 +28,14 @@ My research work in the field of neuromorphic computing with emerging resistive 
 
 ### Conferences
 
-1. [C1] S. T. Ahmed, et al., Binary Bayesian Neural Networks for Efficient Uncertainty Estimation Leveraging Inherent Stochasticity of Spintronic Devices, IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH), 2022. [Best Paper Candidate].
+1. [C1] S. T. Ahmed, et al., Binary Bayesian Neural Networks for Efficient Uncertainty Estimation Leveraging Inherent Stochasticity of Spintronic Devices, IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH), 2022. [**Best Paper Candidate**].
 2. [C2] S. T. Ahmed, et al., NeuroScrub: Mitigating Retention Failures Using Approximate Scrubbing in Neuromorphic Fabric Based on Resistive Memories, Proceedings of the European Test Symposium (ETS), 2021.
 3. [C3] S. T. Ahmed, et al., Online Fault-Tolerance for Memristive Neuromorphic Fabric Based on Local Approximation, 28th IEEE European Test Symposium, 2023.
 4. [C4] S. T. Ahmed, et al., Scalable Spintronics-based Bayesian Neural Network for Uncertainty Estimation, Design, Automation and Test in Europe Conference, 2023.
 5. [C5] S. T. Ahmed, et al., Compact Functional Test Generation for Memristive Deep Learning Implementations using Approximate Gradient Ranking, IEEE International Test Conference (ITC), 2022.
 6. [C6] S. T. Ahmed, et al., Process and Runtime Variation Robustness for Spintronic-Based Neuromorphic Fabric, IEEE European Test Symposium (ETS), 2022.
-7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 
+7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 40th VLSI Test Symposium (VTS), 2022. [**Best Paper Candidate**]
+
 
 
 ## Contact
