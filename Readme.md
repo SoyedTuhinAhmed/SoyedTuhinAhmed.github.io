@@ -10,13 +10,11 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 - **[NeuSPIN – An ANR project]**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
-# Neuromorphic Computing and Deep Learning Research
-
-This repository contains an overview of my research work in the field of neuromorphic computing, focusing on spintronics, fault tolerance, and resistive memories. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges in uncertainty estimation, fault-tolerance, and variability.
+# Neuromorphic Computing and Deep Learning Research overview
 
 ## Research Statement
 
-The primary focus of my research lies at the intersection of neuromorphic computing, spintronics, and fault tolerance in the context of emerging hardware technologies. My work aims to develop efficient and robust neuromorphic systems based on spintronic devices and resistive memories while addressing challenges in uncertainty estimation, fault-tolerance, and variability. For a detailed research statement, please refer to [ResearchStatement.md](ResearchStatement.md).
+My research work in the field of neuromorphic computing with emerging resistive NVM memories, e.g., spintronics, fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges trustworthy deep learing system with uncertainty estimation, fault-tolerance, and testability with algorithm-hardware co-design appraoch. For a detailed research statement, please refer to [ResearchStatement.md](ResearchStatement.md).
 
 ## Publications
 
