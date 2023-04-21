@@ -1,7 +1,7 @@
 # Soyed Tuhin Ahmed - Research Profile
 
 
-<img align="left" src="tuhin_.jpg" width="100" height="100">
+<img align="left" src="tuhin_.jpg" width="120" height="120">
 
 ## About Me
 I am a PhD student in computer science at KIT - Karlsruhe Institute of Technology, Karlsruhe, Germany at the Chair of Dependable Nano Computing (CDNC), working under the supervision of Prof. Dr. Mehdi B. Tahoori. My research interests include neuromorphic computing, resilient hardware accelerator for machine learning, robust and accurate deep learning, hardware architectures for neural network applications, computation in memory, and emerging memory computing paradigms.
@@ -21,11 +21,11 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 - **NeuSPIN – An ANR project**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
-# Neuromorphic Computing and Deep Learning Research overview
+# Neuromorphic Computing and Deep Learning Research Overview
 
 ## Research Statement
 
-My research is in the field of efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
+My research is in the field of robust and efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
 
 ## Publications
@@ -34,7 +34,7 @@ My research is in the field of efficient algorithms for neuromorphic computing w
 
 1. [J1] S. T. Ahmed, et al., NeuroScrub+: Mitigating Retention Faults Using Flexible Approximate Scrubbing in Neuromorphic Fabric Based on Resistive Memories, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022.
 2. [J2] S. T. Ahmed, et al., SpinDrop: Dropout-Based Bayesian Binary Neural Networks with spintronic Implementation, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023.
-3. [J3] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Memristors Using Functional ATPG for Efficient Re-calibration, IEEE Design and Test, 2023 [Under Review].
+3. [J3] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Memristors Using Functional ATPG for Efficient Re-calibration, IEEE Design and Test, 2023, [Revised Publication for Top Picks in VTS 2022].
 4. [J4] S. T. Ahmed, et al., Design-Time Reference Current Generation for Robust Spintronic-Based Neuromorphic Architecture, ACM Journal on Emerging Technologies in Computing Systems, 2023, [Under Review].
 5. [J5] S. T. Ahmed, et al., Algorithm-Hardware Co-Design for Uncertainty Estimation on Spintronic-Based Architectures, Esweek 2023/ACM Transactions on Embedded Computing System [Under Review, generic title used due to anonymous review].
 
