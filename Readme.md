@@ -1,9 +1,9 @@
 # Soyed Tuhin Ahmed - Research Profile
 
-<img src="tuhin_.jpg" width="100" height="100">
+
 
 ## About Me
-
+<img src="tuhin_.jpg" width="100" height="100">
 I am a PhD student in computer science at KIT - Karlsruhe Institute of Technology, Karlsruhe, Germany at the Chair of Dependable Nano Computing (CDNC), working under the supervision of Prof. Dr. Mehdi B. Tahoori. My research interests include neuromorphic computing, resilient hardware accelerator for machine learning, robust and accurate deep learning, hardware architectures for neural network applications, computation in memory, and emerging memory computing paradigms.
 
 
