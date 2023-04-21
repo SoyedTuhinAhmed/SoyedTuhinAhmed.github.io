@@ -16,6 +16,14 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 My research is in the field of efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
+## Awards and Nomination
+
+1. **Richard Newton Fellowship** at DAC 2022
+2. **Summa-Cum-Laude** and **university gold medal** from Amarican International University Bangladesh (AIUB)
+3. **Academic Merit Scholarship** from Amarican International University Bangladesh (AIUB), 2013-2015
+4. **EIT Digital Scholarships**, entry at KTH Royal Institute of Technology, 2016 (did not pursue)
+
+
 ## Publications
 
 ### Journals
