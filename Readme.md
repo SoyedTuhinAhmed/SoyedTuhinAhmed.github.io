@@ -22,6 +22,8 @@ My research is in the field of efficient algorithms for neuromorphic computing w
 2. **Summa-Cum-Laude** and **university gold medal** from Amarican International University Bangladesh (AIUB)
 3. **Academic Merit Scholarship** from Amarican International University Bangladesh (AIUB), 2013-2015
 4. **EIT Digital Scholarships**, entry at KTH Royal Institute of Technology, 2016 (did not pursue)
+5. **Marie Curie Fellowship** from University of York, 2022, (did not pursue)
+6. Several **best paper nomination**, see below
 
 
 ## Publications
