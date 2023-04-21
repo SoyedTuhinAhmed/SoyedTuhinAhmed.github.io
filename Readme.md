@@ -6,15 +6,6 @@
 
 I am a PhD student in computer science at KIT - Karlsruhe Institute of Technology, Karlsruhe, Germany at the Chair of Dependable Nano Computing (CDNC), working under the supervision of Prof. Dr. Mehdi B. Tahoori. My research interests include neuromorphic computing, resilient hardware accelerator for machine learning, robust and accurate deep learning, hardware architectures for neural network applications, computation in memory, and emerging memory computing paradigms.
 
-## Research Projects
-
-- **NeuSPIN – An ANR project**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
-
-# Neuromorphic Computing and Deep Learning Research overview
-
-## Research Statement
-
-My research is in the field of efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
 ## Awards and Nomination
 
@@ -24,6 +15,16 @@ My research is in the field of efficient algorithms for neuromorphic computing w
 4. **EIT Digital Scholarships**, entry at KTH Royal Institute of Technology, 2016 (did not pursue)
 5. **Marie Curie Fellowship** from University of York, 2022, (did not pursue)
 6. Several **best paper nomination**, see below
+
+## Research Projects
+
+- **NeuSPIN – An ANR project**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
+
+# Neuromorphic Computing and Deep Learning Research overview
+
+## Research Statement
+
+My research is in the field of efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
 
 ## Publications
