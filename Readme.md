@@ -1,6 +1,6 @@
 # Soyed Tuhin Ahmed - Research Profile
 
-![Profile Image](tuhin_.jpg)
+![Profile Image](tuhin_.jpg =100x100)
 
 ## About Me
 
