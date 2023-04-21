@@ -15,7 +15,7 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 3. **Academic Merit Scholarship** from Amarican International University Bangladesh (AIUB), 2013-2015
 4. **EIT Digital Scholarships**, entry at KTH Royal Institute of Technology, 2016 (did not pursue)
 5. **Marie Curie Fellowship** from University of York, 2022, (did not pursue)
-6. Several **best paper nomination**, see below
+6. Several **best paper nominations**, see below
 
 ## Research Projects
 
