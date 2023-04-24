@@ -21,6 +21,12 @@ I am a PhD student in computer science at KIT - Karlsruhe Institute of Technolog
 
 - **NeuSPIN – An ANR project**: NeuSPIN stands for Design of a reliable edge neuromorphic system based on spintronics for Green AI [[Link]](https://www.spintec.fr/neuspin-an-anr-project/)
 
+## Colloborators
+- **Lorena Anghel**, Professor at Grenoble INP / PHELMA, Deputy VP of Research at Grenoble INP, in charge microelectronics, electronics and embedded systems
+- **Guillaune Prenat**, Research scientist(CEA)
+- **Kamal Danouchi**, Phd student, CEA-SPINTEC
+- **Dr. Michael Hefenbrock**, Head of AI and Co-Founder, RevoAI GmbH
+
 # Neuromorphic Computing and Deep Learning Research Overview
 
 ## Research Statement
