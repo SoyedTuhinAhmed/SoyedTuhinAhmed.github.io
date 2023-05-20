@@ -53,6 +53,7 @@ My research is in the field of robust and efficient algorithms for neuromorphic 
 5. [C5] S. T. Ahmed, et al., Compact Functional Test Generation for Memristive Deep Learning Implementations using Approximate Gradient Ranking, IEEE International Test Conference (ITC), 2022.
 6. [C6] S. T. Ahmed, et al., Process and Runtime Variation Robustness for Spintronic-Based Neuromorphic Fabric, IEEE European Test Symposium (ETS), 2022.
 7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 40th VLSI Test Symposium (VTS), 2022. [**Best Paper Candidate**]
+8. [C8] S. T. Ahmed, et al., One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection, arXiv preprint arXiv:2305.09348, 2023
 
 
 
