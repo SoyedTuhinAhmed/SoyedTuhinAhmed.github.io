@@ -55,7 +55,9 @@ My research is in the field of robust and efficient algorithms for neuromorphic 
 7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 40th VLSI Test Symposium (VTS), 2022. [**Best Paper Candidate**]
 8. [C8] S. T. Ahmed, et al., One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection, arXiv preprint arXiv:2305.09348, 2023
 
-
+### Co-Authors Conference Papers
+9. [C9] Atousa Jafari, et al., MVSTT: A Multi-Value Computation-in-Memory based on Spin-Transfer Torque Memories, 2022 25th Euromicro Conference on Digital System Design (DSD)
+10. [C10] Surendra Hemaram, et al., A Low Overhead Checksum Technique For Error Correction In Memristive Crossbars For Deep Learning Applications, 41th VLSI Test Symposium (VTS), 2023.
 
 ## Contact
 
