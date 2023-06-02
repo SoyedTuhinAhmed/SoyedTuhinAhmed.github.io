@@ -1,8 +1,4 @@
 
-# {{ site.title }}
-
-{{ site.description }}
-
 ## Awards and Nomination
 
 1. **Richard Newton Fellowship** at DAC 2022
