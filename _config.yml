@@ -2,8 +2,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Soyed Tuhin Ahmed - Research Profile
+title: [Soyed Tuhin Ahmed - Research Profile]
 
 description: >
-  I am a PhD student in computer science at KIT - Karlsruhe Institute of Technology, Karlsruhe, Germany at the Chair of Dependable Nano Computing (CDNC), working under the supervision of Prof. Dr. Mehdi B. Tahoori. My research interests include neuromorphic computing, resilient hardware accelerator for machine learning, robust and accurate deep learning, hardware architectures for neural network applications, computation in memory, and emerging memory computing paradigms.
+  [I am a PhD student in computer science at KIT - Karlsruhe Institute of Technology, Karlsruhe, Germany at the Chair of Dependable Nano Computing (CDNC), working under the supervision of Prof. Dr. Mehdi B. Tahoori. My research interests include neuromorphic computing, resilient hardware accelerator for machine learning, robust and accurate deep learning, hardware architectures for neural network applications, computation in memory, and emerging memory computing paradigms]
 
