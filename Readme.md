@@ -1,4 +1,10 @@
-# Soyed Tuhin Ahmed
+---
+layout: default
+---
+
+# {{ site.title }}
+
+{{ site.description }}
 
 ## Awards and Nomination
 
