@@ -10,7 +10,8 @@
 6. Selected paper from VLSI Test Symposium 2022 to appear at the special secition/issue of IEEE Design and Test
 7. Selected paper from Nanoscale Architectures Symposium (NANOARCH 2022) to appear at the special secition/issue of IEEE Transactions on Nanotechnology (TNANO)
 8. Selected present my PhD work on the PhD forum of Design, Automation and Test in Europe Conference 2023
-9. Several **best paper nominations**, see below
+9. **Summa Cum Laude distinction**, **university gold medal**, and **academic merit scrolarship** during bachelors studies
+11. Several **best paper nominations**, see below
 
 ## Research Projects
 
