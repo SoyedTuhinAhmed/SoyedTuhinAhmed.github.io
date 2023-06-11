@@ -7,7 +7,10 @@
 3. **Academic Merit Scholarship** from Amarican International University Bangladesh (AIUB), 2013-2015
 4. **EIT Digital Scholarships**, entry at KTH Royal Institute of Technology, Sweden, 2016 (did not pursue)
 5. **Marie Curie Fellowship** from University of York, UK, 2022, (did not pursue)
-6. Several **best paper nominations**, see below
+6. Selected paper from VLSI Test Symposium 2022 to appear at the special secition/issue of IEEE Design and Test
+7. Selected paper from Nanoscale Architectures Symposium (NANOARCH 2022) to appear at the special secition/issue of IEEE Transactions on Nanotechnology (TNANO)
+8. Selected present my PhD work on the PhD forum of Design, Automation and Test in Europe Conference 2023
+9. Several **best paper nominations**, see below
 
 ## Research Projects
 
