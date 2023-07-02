@@ -29,7 +29,7 @@
 My research is in the field of robust and efficient algorithms for neuromorphic computing with emerging resistive NVM memories (e.g., spintronics), fault tolerance, testing, and uncertainty estimation. The primary aim is to develop efficient and robust neuromorphic systems, addressing challenges to a trustworthy deep learning system with uncertainty estimation, fault tolerance, and testability with an algorithm-hardware co-design approach. For a detailed research statement, please refer to [ResearchStatement](ResearchStatement.md).
 
 
-## Publications
+## First Authored Publications
 
 ### Journals
 
@@ -51,7 +51,7 @@ My research is in the field of robust and efficient algorithms for neuromorphic 
 6. [C6] S. T. Ahmed, et al., Process and Runtime Variation Robustness for Spintronic-Based Neuromorphic Fabric, IEEE European Test Symposium (ETS), 2022.
 7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 40th VLSI Test Symposium (VTS), 2022. [**Best Paper Candidate**]
 
-### Co-Authored Conference Papers
+## Co-Authored Conference Papers
 8. [C9] Atousa Jafari, et al., MVSTT: A Multi-Value Computation-in-Memory based on Spin-Transfer Torque Memories, 2022 25th Euromicro Conference on Digital System Design (DSD)
 9. [C10] Surendra Hemaram, et al., A Low Overhead Checksum Technique For Error Correction In Memristive Crossbars For Deep Learning Applications, 41th VLSI Test Symposium (VTS), 2023.
 
