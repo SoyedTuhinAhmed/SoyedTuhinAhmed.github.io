@@ -36,10 +36,11 @@ My research is in the field of robust and efficient algorithms for neuromorphic 
 1. [J1] S. T. Ahmed, et al., NeuroScrub+: Mitigating Retention Faults Using Flexible Approximate Scrubbing in Neuromorphic Fabric Based on Resistive Memories, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2022.
 2. [J2] S. T. Ahmed, et al., SpinDrop: Dropout-Based Bayesian Binary Neural Networks with spintronic Implementation, IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023.
 3. [J3] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Memristors Using Functional ATPG for Efficient Re-calibration, IEEE Design and Test, 2023.
-4. [J4] S. T. Ahmed, et al., Design-Time Reference Current Generation for Robust Spintronic-Based Neuromorphic Architecture, ACM Journal on Emerging Technologies in Computing Systems, 2023, [Under Review].
-5. [J5] S. T. Ahmed, et al., Algorithm-Hardware Co-Design for Uncertainty Estimation on Spintronic-Based Architectures, Esweek 2023/ACM Transactions on Embedded Computing System [Accepted].
+4. [J4] S. T. Ahmed, et al., Design-Time Reference Current Generation for Robust Spintronic-Based Neuromorphic Architecture, ACM Journal on Emerging Technologies in Computing Systems, 2023.
+5. [J5] S. T. Ahmed, et al., Algorithm-Hardware Co-Design for Uncertainty Estimation on Spintronic-Based Architectures, ACM Transactions on Embedded Computing System.
 6. [J6] S. T. Ahmed, et al., Spatial-SpinDrop: Spatial Dropout-based Binary Bayesian Neural Network with Spintronics Implementation, [under review], preprint [arXiv preprint arXiv:2306.10185]
-7. [J7] S. T. Ahmed, et al., One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection, [under review], preprint [arXiv preprint arXiv:2305.09348]
+7. [J7] S. T. Ahmed, et al., One-Shot Online Testing of Deep Neural Networks Based on Distribution Shift Detection, [under review at IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)], preprint [arXiv preprint arXiv:2305.09348]
+8. [J8] S. T. Ahmed, et al., Scale-Dropout: Estimating Uncertainty in Deep Neural Networks Using Stochastic Scale, [under review at IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS I)], preprint [arXiv preprint arXiv:2311.15816]
 
 ### Conferences
 
@@ -50,6 +51,10 @@ My research is in the field of robust and efficient algorithms for neuromorphic 
 5. [C5] S. T. Ahmed, et al., Compact Functional Test Generation for Memristive Deep Learning Implementations using Approximate Gradient Ranking, IEEE International Test Conference (ITC), 2022.
 6. [C6] S. T. Ahmed, et al., Process and Runtime Variation Robustness for Spintronic-Based Neuromorphic Fabric, IEEE European Test Symposium (ETS), 2022.
 7. [C7] S. T. Ahmed, et al., Fault-tolerant Neuromorphic Computing with Functional ATPG for Post-manufacturing Re-calibration, 40th VLSI Test Symposium (VTS), 2022. [**Best Paper Candidate**]
+8. [C8] S. T. Ahmed, et al., Concurrent Self-testing of Neural Networks (Anonymous title), 42nd VLSI Test Symposium (VTS), 2024.
+9. [C9] S. T. Ahmed, et al., Zero Overhead ECC-based Fault Tolerance for Neural Networks (Anonymous title), 42nd VLSI Test Symposium (VTS), 2024.
+10. [C10] S. T. Ahmed, et al., Anonymous title, IEEE European Test Symposium (ETS), 2024.
+
 
 ## Co-Authored Conference Papers
 8. [C9] Atousa Jafari, et al., MVSTT: A Multi-Value Computation-in-Memory based on Spin-Transfer Torque Memories, 2022 25th Euromicro Conference on Digital System Design (DSD)
