@@ -4,27 +4,36 @@ title: Research
 permalink: /research/
 ---
 
-## Current Projects
+## Current Research Roles  
 
-### Spaceborne Low-Energy AI Computing  
-![Space AI](assets/img/project-ai.png){: .project-img}  
-- **Advisor**: Prof. Krishnendu Chakrabarty (ASU/Sandia)  
-- **Goal**: Radiation-hard AI chips for satellite image sensors  
-- **Tools**: HW/SW codesign, radiation hardening  
+### Postdoctoral Researcher (Arizona State University & Sandia Labs)  
+**Sep 2024–Present**  
+- **Focus**: Low-energy AI computing for space applications, radiation-hard AI chips  
+- **Advisor**: Prof. Krishnendu Chakrabarty (ACM/IEEE/AAAS Fellow)  
 
-### NeuSPIN (ANR/DFKI Project)  
-- **Role**: Lead Researcher  
-- **Outcome**: Spintronics-based edge neuromorphic system for Green AI  
+### Independent GenAI Researcher  
+**Sep 2024–Present**  
+- **Topics**: LLMs for test/reliability, Transformer optimization, diffusion models for test vector generation  
 
 ---
 
-## Past Research Experience
+## Past Research Experience  
 
-### Karlsruhe Institute of Technology (2020–2024)  
+### Scientific Researcher (KIT)  
+**Sep 2020–Aug 2024**  
 - **Key Contributions**:  
-  - Improved inference accuracy by 90% under unreliable computations  
-  - Reduced test vectors by 10,000× while achieving 100% fault coverage  
-  - Bayesian neural networks with 100× energy reduction  
+  - Improved inference accuracy by **90%** under unreliable computations.  
+  - **100× energy reduction** via Bayesian neural networks.  
+  - **10,000× test vector reduction** with 100% fault coverage.  
+- **Tools**: PyTorch, VHDL, Bayesian ML  
 
-### Robert Bosch GmbH (2018–2019)  
-- **Work**: RISC-V/ARM Cortex-M benchmarking on FPGA  
+### Internships  
+- **Robert Bosch GmbH (2018–2019)**: RISC-V/ARM Cortex-M benchmarking on FPGA  
+- **TU München (2018)**: Cryptographic FPGA implementation in VHDL  
+
+---
+
+## Funded Projects Worked On
+- **Spaceborne Low-Energy AI Computing**: Microelectronics Commons  
+- **NeuSPIN (ANR/DFKI)**: Spintronics-based neuromorphic systems  
+- **NeuroTest (DFG)**: Testing solutions for neuromorphic circuits  
